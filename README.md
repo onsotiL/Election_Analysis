@@ -2,8 +2,10 @@
 Electiona Analysis Using Python
 
 ## Overview of Election Audit:
+
 This election analysis was carried for Colorado Board of Election to audit the tabulated results of a congressional precinct. 
-#The following analysis were performed 
+#### The following analysis were performed 
+
 1. Calculating the total number of votes
 2. Getting a complete list of candidates who received votes
 3.Calculating the total number of votes each candidate won 
@@ -35,27 +37,27 @@ This election analysis was carried for Colorado Board of Election to audit the t
 #### Total number of votes cast: 369,71
 
 #### Voter turnout by county:
-	Jefferson: 38,855
-	Denver: 306,055
-	Arapahoe: 24,801
-
+•	Jefferson: 38,855
+•	Denver: 306,055
+•	Arapahoe: 24,801
+
 •	Voter percentage by county:
 
-	Jefferson:  10.5% 
-	Denver:  82.8% 
-	Arapahoe:  6.7% 
+•	Jefferson:  10.5% 
+•		Denver:  82.8% 
+•		Arapahoe:  6.7% 
 
-•	Candidate Percentage of Votes: 
+#### Candidate Percentage of Votes: 
 
-	Charles Casper Stockham received 23.0% of the vote with a total of 85,213 votes.
-	Diana DeGette received 73.8% of the vote with a total of 272,892 votes.
-	Raymon Anthony Doane received 3.1% of the vote with a total of 11,606 votes.
+•	Charles Casper Stockham received 23.0% of the vote with a total of 85,213 votes.
+•	Diana DeGette received 73.8% of the vote with a total of 272,892 votes.
+•		Raymon Anthony Doane received 3.1% of the vote with a total of 11,606 votes.
 
-•	Election winner:
+#### Election winner:
 
-	The overall winner for the election was Diana DeGette who received 73.8% of the vote with a total of 272,892 votes.
-•	Largest county voter turnout:
-	Denver had 82.8% of voters with a total of 306,055 voters.
+•	The overall winner for the election was Diana DeGette who received 73.8% of the vote with a total of 272,892 votes.
+#### Largest county voter turnout:
+•	Denver had 82.8% of voters with a total of 306,055 voters.
 
 
 Election-Audit Summary: 
