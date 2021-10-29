@@ -19,7 +19,9 @@ This election analysis was carried for Colorado Board of Election to audit the t
 ### After completing the initial analysis further analysis was done to include the following:
 
 •	The voter turnout for each county
+
 •	The percentage of votes from each county out of the total count
+
 •	The county with the highest turnout
 
 ## The election-audit results were as follows: 
