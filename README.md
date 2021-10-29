@@ -22,7 +22,7 @@ This election analysis was carried for Colorado Board of Election to audit the t
 •	The percentage of votes from each county out of the total count
 •	The county with the highest turnout
 
-#The election-audit results were as follows: 
+## The election-audit results were as follows: 
 
 ![image](https://user-images.githubusercontent.com/90416094/139476450-abca0246-408b-4b70-a592-d318aed750d4.png)
 
