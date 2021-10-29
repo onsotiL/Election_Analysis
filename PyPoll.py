@@ -43,7 +43,7 @@ with open(file_to_save, "w") as txt_file:
 # Print the final vote count to the terminal.
     election_results = (
         f"\nElection Results\n"
-        f"-------------------------\n"
+        f"------------\n"
         f"Total Votes: {total_votes:,}\n"
         f"-------------------------\n")
     print(election_results, end="")
@@ -83,4 +83,4 @@ winning_candidate_summary = (
     f"-------------------------\n")
 print(winning_candidate_summary)
 #  Save the candidate results to our text file.
-txt_file.write(winning_candidate_summary)
+#txt_file.write(winning_candidate_summary)
